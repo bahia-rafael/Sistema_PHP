@@ -1,0 +1,189 @@
+@font-face {
+	font-family: "Bebas Neue";
+	src: url(Font/BebasNeue-Regular.otf);
+}
+
+body {
+
+	margin: 0;
+}
+
+#mySite {
+	box-shadow: -1px 0px 5px 5px rgba(97, 0, 0, 0.77);
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 0px;
+	background-color: white;
+	padding-bottom: 20%;
+	padding-bottom: 10px;
+	height: 1000px;
+
+}
+
+header {
+	background-color: black;
+	margin: 0 auto;
+	text-align: center;
+	height: 200px;
+}
+
+header img {
+	margin: 40px auto;
+}
+
+.submit {
+
+	width: 316px;
+	margin-top: 50px;
+	margin-left: 15px;
+	float: center;
+	border-radius: 10px;
+	background-color: red;
+	color: white;
+}
+
+.submit {
+
+}
+
+.submit img {
+	text-align: left;
+}
+
+.submit #text {
+	font-family: "Bebas Neue", Arial; 
+	font-size: 35px;
+	float: right;
+	width: 250px;
+}
+
+
+.tg  {
+	font-size: 20px;
+	margin: 50px auto;
+	width: 800px;
+	border-collapse:collapse;
+	border-spacing:0;
+	font-family: "Bebas Neue", Arial;
+	border-color:#aabcfe;
+	text-align:center;
+}
+.tg td{
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:#aabcfe;
+	color:#669;
+	text-align:center;
+	background-color:#e8edff;
+}
+.tg th{
+	padding:10px 5px;border-style:solid;
+	border-width:1px;overflow:hidden;
+	word-break:normal;
+	border-color:#aabcfe;
+	color:#039;
+	background-color:#b9c9fe;
+}
+.tg .tg-hmp3{
+	background-color:#D2E4FC;
+	
+	vertical-align:top
+}
+.tg .tg-baqh{
+	text-align:center;
+	vertical-align:top
+}
+.tg .tg-mb3i{
+	background-color:#D2E4FC;
+	vertical-align:top
+}
+.tg .tg-lqy6{
+
+	vertical-align:top
+}
+.tg .tg-0lax{
+	vertical-align:top
+}
+
+hr {
+	margin-top: 30px;
+}
+
+#formulario {
+	margin-left: 50px;
+	text-align: center;
+	overflow: hidden;
+	vertical-align: middle;
+	font-family: "Bebas Neue", Arial;
+	font-size: 25px;
+	color: red;
+	margin: 50px 50px auto;
+	margin-bottom: 100px;
+}
+
+#formulario div {
+	margin-top: 10px;
+}
+
+#formulario input {
+	height: 30px;
+	border-radius: 5px;
+}
+
+#formulario textarea {
+	height: 30px;
+	border-radius: 5px;
+}
+
+#formulario .descricao {
+	float: right;
+	margin-right: 50px;
+	text-align: center;
+	overflow: hidden;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+#formulario .nome {
+	float: left;
+	margin-left: 50px;
+	text-align: center;
+	overflow: hidden;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+#formulario .preco {
+	float: center;
+	margin-left: 50px;
+	text-align: center;
+	overflow: hidden;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+
+#formulario .botao input {
+	
+	border-radius: 10px;
+	background-color: red;
+	color: white;
+	font-family: "Bebas Neue", Arial; 
+	font-size: 35px;
+	width: 316px;
+	height: 43px;
+	margin-top: 50px;
+	margin-left: 15px;
+	float: center;
+	border-radius: 10px;
+	background-color: red;
+	color: white;
+
+}
+
+#formulario .botao img {
+	text-align: left;
+}
